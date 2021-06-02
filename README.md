@@ -1,6 +1,7 @@
 <h1 align="center">Hello World, Welcome! <img src="https://i1.wp.com/rankedbyvotes.com/wp-content/uploads/Discord-Emoji.gif" width="80px"></h1>
 <h3 align="center">My name is Leonardo Camargo and i'm a Junior Front-end Developer.</h3>
 <h3 align="center">Dedicated, curious, enthusiastic and passionate about programming.</h3>
+<p align="center">**More projects coming soon**</p>
 
 
 <div align="center"><br>
