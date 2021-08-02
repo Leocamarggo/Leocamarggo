@@ -21,7 +21,7 @@
 
 <div align="center">
   <h3>📞Ways of contact📞</h3>
-  <a href="https://www.instagram.com/leocamargo.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5511987471504&text=Ol%C3%A1%2C%20podemos%20conversar%3F" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto: leonardo.camarggo@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-camargo-5a8163194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
