@@ -25,13 +25,6 @@
   <a href = "mailto: leonardo.camarggo@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-camargo-5a8163194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div>
-  <h3 align="center">⚙️Analytics⚙️</h3>
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Leocamarggo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leocamarggo&layout=compact&langs_count=16&theme=dark"/>
-</div>
   
 ![Snake animation](https://github.com/Leocamarggo/Leocamarggo/blob/output/github-contribution-grid-snake.svg)
 
