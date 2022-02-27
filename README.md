@@ -1,4 +1,4 @@
-<img src="https://leonardocamargo.vercel.app/static/media/illustration2.6b53bffb445a8b63dc1a.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://leonardocamargo.vercel.app/static/media/illustration2.6b53bffb445a8b63dc1a.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <h2 align="left">Hello World, Welcome!</h2>
 <h4 align="left">My name is Leonardo Camargo and i'm a Front-end Developer.</h4>
