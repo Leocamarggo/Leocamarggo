@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/leonardo-camargo-5a8163194/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-    <a href="https://leonardocamargo.vercel.app/" target="_blank">
+    <a href="https://leonardocamarggo.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge&logo=react&logoColor=white" target="_blank">
   </a>
 </div>
