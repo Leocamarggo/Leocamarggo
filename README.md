@@ -1,4 +1,4 @@
-<h2 align="left">"Hello World", Welcome to my GitHub :)</h2>
+<h2 align="left">Hello, Welcome to my GitHub (◕‿◕)</h2>
 <h4 align="left">My name is Leonardo Camargo and i'm a Front-end Developer.</h4>
 <h4 align="left">Well, i usually present myself as curious and completely passionate about what i do ❤️</h4>
 <p align="left">🛠 I am improving my GitHub, so few repositories... News soon 🛠</p>
