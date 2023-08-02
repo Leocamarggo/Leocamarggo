@@ -1,7 +1,6 @@
 <h2 align="left">Hello, Welcome to my GitHub (◕‿◕)</h2>
-<h4 align="left">My name is Leonardo Camargo and i'm a Front-end Developer.</h4>
+<h4 align="left">My name is Leonardo Camargo and i'm a Fullstack Developer.</h4>
 <h4 align="left">Well, i usually present myself as curious and completely passionate about what i do ❤️</h4>
-<p align="left">🛠 I am improving my GitHub, so few repositories... News soon 🛠</p>
 
 <div><br>
   <h4>🔵 Main technologies:</h4>
@@ -9,6 +8,7 @@
   <img align="left" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="left" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="left" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="left" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="left" alt="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
